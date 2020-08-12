@@ -1,4 +1,4 @@
-# Complete React Material UI Tutorial - Form Design and Validation
+# Complete React Material UI Table - Paging, Sorting and Filtering
 
 These is the demo project used to explaining Material UI table with paging sorting and filtering.
 - Show array of records in mui table.
