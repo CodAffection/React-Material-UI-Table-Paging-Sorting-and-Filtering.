@@ -17,8 +17,8 @@ $ git clone https://github.com/CodAffection/React-Material-UI-Table-Paging-Sorti
  :tv: Video tutorial on this same topic  
  Url : https://bit.ly/3fPcxBe
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=3fPcxBe
-" target="_blank"><img src="http://img.youtube.com/vi/3fPcxBe/0.jpg" 
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=jnQ1-XW7KNY
+" target="_blank"><img src="http://img.youtube.com/vi/jnQ1-XW7KNY/0.jpg" 
 alt="Video Tutorial for Material UI Table with Paging, Sorting and Filtering" width="500" height="400" border="10" /></a>
 
 
